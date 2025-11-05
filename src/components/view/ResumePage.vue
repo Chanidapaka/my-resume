@@ -70,16 +70,34 @@ const education = [
 
 const projects = [
   {
-    name: "CloneWebtoon",
+    name: "Github CloneWebtoon",
     link: "https://github.com/Chanidapaka/CloneWebtoon?tab=readme-ov-file",
     desc: "Webtoon clone with basic UI.",
     tags: ["HTML", "CSS"],
   },
   {
-    name: "eCommerce for mobile phone",
-    link: "https://github.com/Chanidapaka/INT221-SSI-03.git",
-    desc: "Mobile phone eCommerce site with product listing and filtering",
+    name: "Github Mobile Phone E-commerce Platform",
+    link: "https://github.com/Chanidapaka/Project-Ecommerce.git",
+    desc: "Developed an E-commerce site for mobile phones featuring product listing, advanced filtering, and a responsive design built with Vue.js.",
     tags: ["Vue", "Tailwind"],
+  },
+  {
+    name: "Github Personal Resume Website",
+    link: "https://github.com/Chanidapaka/my-resume.git",
+    desc: "Developed a responsive, single-page resume using Vue.js and Tailwind CSS for easy presentation and maintenance of personal information.",
+    tags: ["Vue", "Tailwind"],
+  },
+  {
+    name: "INT221-SSI-03 Project Demo",
+    link: "https://intproj24.sit.kmutt.ac.th/ssi3/",
+    desc: "Live demo of the E-commerce platform developed for the KMUTT Integrated Project (INT221).",
+    tags: ["Vue", "Spring Boot"],
+  },
+  {
+    name: "Live Resume Deployment",
+    link: "https://my-resume-ten-snowy.vercel.app/",
+    desc: "The live deployed version of this personal resume website, built using Vue.js and Tailwind CSS.",
+    tags: ["Deployment", "Vue"],
   },
 ];
 </script>
