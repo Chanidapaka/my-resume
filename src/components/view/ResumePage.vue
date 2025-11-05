@@ -93,12 +93,6 @@ const projects = [
     desc: "Live demo of the E-commerce platform developed for the KMUTT Integrated Project (INT221).",
     tags: ["Vue", "Spring Boot"],
   },
-  {
-    name: "Live Resume Deployment",
-    link: "https://my-resume-ten-snowy.vercel.app/",
-    desc: "The live deployed version of this personal resume website, built using Vue.js and Tailwind CSS.",
-    tags: ["Deployment", "Vue"],
-  },
 ];
 </script>
 
